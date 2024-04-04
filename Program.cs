@@ -32,7 +32,7 @@ namespace LTDT_PKMT
                 {
                     case "1":
                         Console.WriteLine("1. NHẬN DIỆN MỘT SỐ ĐỒ THỊ ĐẶC BIỆT");
-                        XuLyTapTin.KiemTraTapTinTonTai(DuongDanTapTin);                        
+                        //Đoạn này là code thực thi                        
                         XuLyKieuString.QuayLaiMENU();
                         break;
                     case "2":
